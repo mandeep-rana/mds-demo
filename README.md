@@ -1,1 +1,2 @@
-# mds-demo
+# MDS demo
+This demo repo
